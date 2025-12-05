@@ -31,7 +31,6 @@ def main():
         """
     )
 
-
     # Load data
     with st.spinner('Loading data...'):
         movies, ratings, links = load_data()
