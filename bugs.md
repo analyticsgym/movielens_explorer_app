@@ -1,2 +1,3 @@
 - YouTube video doesn't always render... is this where evals are needed?
 - Song trailer returned instead of movie trailer
+- README and app text needs QA/updates
