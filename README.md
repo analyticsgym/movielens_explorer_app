@@ -1,5 +1,7 @@
 # MovieLens Explorer
 
+[Link to app](https://movielens-explorer.streamlit.app/)
+
 Testing Antigravity's agent development process. MovieLens Explorer is a simple "Hello World" Streamlit-based web application designed to demonstrate light data exploration and AI integration in a user-friendly interface. Built for educational purposes, it leverages the MovieLens dataset to demonstrate data analysis and AI integration in a user-friendly interface.
 
 ## Features
